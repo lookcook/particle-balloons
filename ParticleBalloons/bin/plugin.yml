@@ -1,6 +1,6 @@
 main: com.lookcook.balloons.BalloonsMain
 name: ParticleBalloons
-version: 1.4
+version: 1.5
 commands:
   balloons: 
     description: opens up the balloons menu.
